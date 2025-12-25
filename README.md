@@ -36,6 +36,7 @@ Install the required library:
 pip install deep-translator
 
 ▶️ How to Run the Project
+
 python language_translator.py
 
 📌 Sample Output
