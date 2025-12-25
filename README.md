@@ -21,6 +21,7 @@ Python
 deep-translator library
 
 📂 Project Structure
+
 language-translator/
 ├── language_translator.py
 ├── README.md
@@ -38,7 +39,9 @@ pip install deep-translator
 python language_translator.py
 
 📌 Sample Output
+
 Input Text: Hello
+
 Translated Text: హలో
 
 🎓 Use Cases
