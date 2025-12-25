@@ -1,4 +1,5 @@
 Language Translator
+
 📌 Project Description
 
 The Language Translator is a Python-based application that translates text from one language to another using Google Translate services. This project is developed for academic purposes and demonstrates the use of Python libraries for language translation.
